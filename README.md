@@ -4,7 +4,8 @@
 
 Neste projeto, fui capaz de:
 
-- Fazer cadastro e longin da pessoa usuária onde apenas essas pessoas poderão acessar, modificar e deletar as receitas que cadastrou.
+- Fazer cadastro e longin da pessoa usuária onde apenas essas pessoas poderão 
+acessar, modificar e deletar as receitas que cadastrou.
 
 - Entender o que há por dentro de um token de autenticação;
 
